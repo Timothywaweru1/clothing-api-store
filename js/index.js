@@ -1,28 +1,21 @@
-console.log("hello world!");
-fetch ("http://localhost:3000/article")
-.then (function (response) {
-    return response.json()
-})
-.then (function (data) {
-    console.log (data)
-})
-function displayProducts () {
+
+function displayProducts (products) {
     let productCatalog = document.querySelector ("#productCatalog")
-    console.log (productCatalog)
-    let html = ` 
-    <div class="singleProduct">
-            <h5>title:Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops</h5>
-            <img src="https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg" alt="bag">
-            <p><strong>description:</strong>Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday</p>
-            <div><strong>price:</strong></div>
-            <div><strong>category:</strong>men's clothing</div>
+     products.forEach (product => {
+        let html = ` 
+        <div class="singleProduct">
+                <h5>${product.title}</h5>
+                <img src="${product.image}" alt="bag">
+                <p><strong>${product.description}</strong>Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday</p>
+                <div><strong>${product.price}</strong></div>
+                <div><strong>${product.category}</strong></div>
         </div>`
-        return html
-}
-displayProducts ()
+            productCatalog.innerHTML += html
+    })
+     }
 fetch ("https://fakestoreapi.com/products")
 .then (response => response.json ())
-.then ((data) => console.log(data [0]))
+.then ( data => displayProducts (data))
 .catch ((error) => console.log (error));
 
 // POST && PATCH 
