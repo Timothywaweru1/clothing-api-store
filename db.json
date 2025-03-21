@@ -1,836 +1,244 @@
 {
-  "article": [
-    {
-      "id": "1",
-      "title": "example article",
-      "content": "changed"
-    },
-    {
-      "id": "2",
-      "title": "second article",
-      "content": "we are posting second title"
-    },
-    {
-      "id": "eefe"
-    },
-    {
-      "id": "56c3"
-    },
-    {
-      "id": "769f"
-    },
-    {
-      "id": "023f"
-    },
-    {
-      "id": "305e"
-    },
-    {
-      "id": "3b5c"
-    },
-    {
-      "id": "28fb"
-    },
-    {
-      "id": "e6d3"
-    },
-    {
-      "id": "c0be"
-    },
-    {
-      "id": "3fa4"
-    },
-    {
-      "id": "22a4"
-    },
-    {
-      "id": "39be"
-    },
-    {
-      "id": "568f"
-    },
-    {
-      "id": "575a"
-    },
-    {
-      "id": "1bce"
-    },
-    {
-      "id": "c9a4"
-    },
-    {
-      "id": "e84b"
-    },
-    {
-      "id": "a5f2"
-    },
-    {
-      "id": "f526"
-    },
-    {
-      "id": "7390"
-    },
-    {
-      "id": "6446"
-    },
-    {
-      "id": "41cf"
-    },
-    {
-      "id": "bb7a"
-    },
-    {
-      "id": "6edf"
-    },
-    {
-      "id": "d524"
-    },
-    {
-      "id": "a9a4"
-    },
-    {
-      "id": "1b7a"
-    },
-    {
-      "id": "727f"
-    },
-    {
-      "id": "7a1e"
-    },
-    {
-      "id": "6bc0"
-    },
-    {
-      "id": "2fed"
-    },
-    {
-      "id": "ab92"
-    },
-    {
-      "id": "5813"
-    },
-    {
-      "id": "dad7"
-    },
-    {
-      "id": "21b2"
-    },
-    {
-      "id": "102c"
-    },
-    {
-      "id": "807a"
-    },
-    {
-      "id": "f819"
-    },
-    {
-      "id": "8eef"
-    },
-    {
-      "id": "a4f8"
-    },
-    {
-      "id": "5773"
-    },
-    {
-      "id": "a8bb"
-    },
-    {
-      "id": "00f1"
-    },
-    {
-      "id": "31fc"
-    },
-    {
-      "id": "4402"
-    },
-    {
-      "id": "066f"
-    },
-    {
-      "id": "3d1e"
-    },
-    {
-      "id": "5bf1"
-    },
-    {
-      "id": "581a"
-    },
-    {
-      "id": "4e31"
-    },
-    {
-      "id": "a9ce"
-    },
-    {
-      "id": "9e96"
-    },
-    {
-      "id": "68fa"
-    },
-    {
-      "id": "7792"
-    },
-    {
-      "id": "29b3"
-    },
-    {
-      "id": "925f"
-    },
-    {
-      "id": "1c86"
-    },
-    {
-      "id": "4029"
-    },
-    {
-      "id": "62d1"
-    },
-    {
-      "id": "2bc2"
-    },
-    {
-      "id": "14ff"
-    },
-    {
-      "id": "90f2"
-    },
-    {
-      "id": "ea41"
-    },
-    {
-      "id": "1a26"
-    },
-    {
-      "id": "b61d"
-    },
-    {
-      "id": "dcd1"
-    },
-    {
-      "id": "8ddf"
-    },
-    {
-      "id": "e76b"
-    },
-    {
-      "id": "d14f"
-    },
-    {
-      "id": "293c"
-    },
-    {
-      "id": "b8be"
-    },
-    {
-      "id": "fd1f"
-    },
-    {
-      "id": "4c80"
-    },
-    {
-      "id": "ff3f"
-    },
-    {
-      "id": "1ed9"
-    },
-    {
-      "id": "2e32"
-    },
-    {
-      "id": "a687"
-    },
-    {
-      "id": "dd28"
-    },
-    {
-      "id": "b590"
-    },
-    {
-      "id": "5afb"
-    },
-    {
-      "id": "c6a0"
-    },
-    {
-      "id": "ee97"
-    },
-    {
-      "id": "55cb"
-    },
-    {
-      "id": "0847"
-    },
-    {
-      "id": "289f"
-    },
-    {
-      "id": "df2b"
-    },
-    {
-      "id": "939c"
-    },
-    {
-      "id": "c00b"
-    },
-    {
-      "id": "3874"
-    },
-    {
-      "id": "5f9d"
-    },
-    {
-      "id": "0e99"
-    },
-    {
-      "id": "83f4"
-    },
-    {
-      "id": "76de"
-    },
-    {
-      "id": "86d7"
-    },
-    {
-      "id": "d003"
-    },
-    {
-      "id": "55ee"
-    },
-    {
-      "id": "8aa4"
-    },
-    {
-      "id": "1755"
-    },
-    {
-      "id": "e186"
-    },
-    {
-      "id": "5f6a"
-    },
-    {
-      "id": "8836"
-    },
-    {
-      "id": "db0c"
-    },
-    {
-      "id": "ce1c"
-    },
-    {
-      "id": "a31e"
-    },
-    {
-      "id": "3f36"
-    },
-    {
-      "id": "298b"
-    },
-    {
-      "id": "9706"
-    },
-    {
-      "id": "489b"
-    },
-    {
-      "id": "56e1"
-    },
-    {
-      "id": "f82c"
-    },
-    {
-      "id": "c3b3"
-    },
-    {
-      "id": "93f0"
-    },
-    {
-      "id": "f2b3"
-    },
-    {
-      "id": "ffdc"
-    },
-    {
-      "id": "c89e"
-    },
-    {
-      "id": "b727"
-    },
-    {
-      "id": "65bf"
-    },
-    {
-      "id": "949b"
-    },
-    {
-      "id": "428f"
-    },
-    {
-      "id": "49c9"
-    },
-    {
-      "id": "437c"
-    },
-    {
-      "id": "27bd"
-    },
-    {
-      "id": "66e0"
-    },
-    {
-      "id": "7936"
-    },
-    {
-      "id": "c75f"
-    },
-    {
-      "id": "ee8f"
-    },
-    {
-      "id": "e992"
-    },
-    {
-      "id": "5a55"
-    },
-    {
-      "id": "2ba0"
-    },
-    {
-      "id": "a452"
-    },
-    {
-      "id": "17b0"
-    },
-    {
-      "id": "9b97"
-    },
-    {
-      "id": "b2ea"
-    },
-    {
-      "id": "6de8"
-    },
-    {
-      "id": "55e1"
-    },
-    {
-      "id": "567a"
-    },
-    {
-      "id": "71b2"
-    },
-    {
-      "id": "81fe"
-    },
-    {
-      "id": "dda5"
-    },
-    {
-      "id": "1d88"
-    },
-    {
-      "id": "3633"
-    },
-    {
-      "id": "08ef"
-    },
-    {
-      "id": "82ae"
-    },
-    {
-      "id": "f0db"
-    },
-    {
-      "id": "5c8e"
-    },
-    {
-      "id": "09be"
-    },
-    {
-      "id": "8140"
-    },
-    {
-      "id": "8b4b"
-    },
-    {
-      "id": "58ed"
-    },
-    {
-      "id": "fb43"
-    },
-    {
-      "id": "9599"
-    },
-    {
-      "id": "1870"
-    },
-    {
-      "id": "39e6"
-    },
-    {
-      "id": "2418"
-    },
-    {
-      "id": "a203"
-    },
-    {
-      "id": "879d"
-    },
-    {
-      "id": "71f6"
-    },
-    {
-      "id": "bc20"
-    },
-    {
-      "id": "696b"
-    },
-    {
-      "id": "0b56"
-    },
-    {
-      "id": "1e46"
-    },
-    {
-      "id": "23be"
-    },
-    {
-      "id": "9da3"
-    },
-    {
-      "id": "d957"
-    },
-    {
-      "id": "c406"
-    },
-    {
-      "id": "4ba5"
-    },
-    {
-      "id": "e7a8"
-    },
-    {
-      "id": "0830"
-    },
-    {
-      "id": "90f9"
-    },
-    {
-      "id": "50d9"
-    },
-    {
-      "id": "bec1"
-    },
-    {
-      "id": "9bdf"
-    },
-    {
-      "id": "a45d"
-    },
-    {
-      "id": "ddb0"
-    },
-    {
-      "id": "3c35"
-    },
-    {
-      "id": "7a82"
-    },
-    {
-      "id": "4645"
-    },
-    {
-      "id": "a85f"
-    },
-    {
-      "id": "ce70"
-    },
-    {
-      "id": "34e1"
-    },
-    {
-      "id": "1490"
-    },
-    {
-      "id": "ef31"
-    },
-    {
-      "id": "f145"
-    },
-    {
-      "id": "78e9"
-    },
-    {
-      "id": "68d7"
-    },
-    {
-      "id": "b3d6"
-    },
-    {
-      "id": "f00f"
-    },
-    {
-      "id": "1176"
-    },
-    {
-      "id": "0cfe"
-    },
-    {
-      "id": "7e93"
-    },
-    {
-      "id": "3674"
-    },
-    {
-      "id": "07e6"
-    },
-    {
-      "id": "3061"
-    },
-    {
-      "id": "0fc1"
-    },
-    {
-      "id": "1b0b"
-    },
-    {
-      "id": "83ab"
-    },
-    {
-      "id": "40ed"
-    },
-    {
-      "id": "914b"
-    },
-    {
-      "id": "15bc"
-    },
-    {
-      "id": "7b4d"
-    },
-    {
-      "id": "beb2"
-    },
-    {
-      "id": "ee23"
-    },
-    {
-      "id": "25ec"
-    },
-    {
-      "id": "7cd3"
-    },
-    {
-      "id": "3747"
-    },
-    {
-      "id": "820e"
-    },
-    {
-      "id": "4480"
-    },
-    {
-      "id": "a8a3"
-    },
-    {
-      "id": "65e1"
-    },
-    {
-      "id": "d848"
-    },
-    {
-      "id": "1ee5"
-    },
-    {
-      "id": "1d29"
-    },
-    {
-      "id": "4056"
-    },
-    {
-      "id": "65ac"
-    },
-    {
-      "id": "08d4"
-    },
-    {
-      "id": "504d"
-    },
-    {
-      "id": "e56a"
-    },
-    {
-      "id": "1bdd"
-    },
-    {
-      "id": "300d"
-    },
-    {
-      "id": "4537"
-    },
-    {
-      "id": "60e1"
-    },
-    {
-      "id": "7109"
-    },
-    {
-      "id": "15b5"
-    },
-    {
-      "id": "2bc5"
-    },
-    {
-      "id": "0e73"
-    },
-    {
-      "id": "d7e9"
-    },
-    {
-      "id": "bd23"
-    },
-    {
-      "id": "d1d7"
-    },
-    {
-      "id": "66ff"
-    },
-    {
-      "id": "fc8e"
-    },
-    {
-      "id": "3306"
-    },
-    {
-      "id": "37f1"
-    },
-    {
-      "id": "4aca"
-    },
-    {
-      "id": "eb13"
-    },
-    {
-      "id": "210e"
-    },
-    {
-      "id": "0f37"
-    },
-    {
-      "id": "b065"
-    },
-    {
-      "id": "36c0"
-    },
-    {
-      "id": "0017"
-    },
-    {
-      "id": "9b8d"
-    },
-    {
-      "id": "52cd"
-    },
-    {
-      "id": "bd78"
-    },
-    {
-      "id": "9b91"
-    },
-    {
-      "id": "6fc3"
-    },
-    {
-      "id": "018f"
-    },
-    {
-      "id": "d141"
-    },
-    {
-      "id": "51cc"
-    },
-    {
-      "id": "99cc"
-    },
-    {
-      "id": "72a4"
-    },
-    {
-      "id": "1546"
-    },
-    {
-      "id": "2c7f"
-    },
-    {
-      "id": "e53e"
-    },
-    {
-      "id": "99b4"
-    },
-    {
-      "id": "bca8"
-    },
-    {
-      "id": "9454"
-    },
-    {
-      "id": "640d"
-    },
-    {
-      "id": "2b4c"
-    },
-    {
-      "id": "6ca8"
-    },
-    {
-      "id": "bc95"
-    },
-    {
-      "id": "8ffe"
-    },
-    {
-      "id": "799f"
-    },
-    {
-      "id": "3023"
-    },
-    {
-      "id": "bf4e"
-    },
-    {
-      "id": "4249"
-    },
-    {
-      "id": "6860"
-    },
-    {
-      "id": "b947"
-    },
-    {
-      "id": "5764"
-    },
-    {
-      "id": "bb6b"
-    },
-    {
-      "id": "349e"
-    },
-    {
-      "id": "c181"
-    },
-    {
-      "id": "371b"
-    },
-    {
-      "id": "6a6b"
-    },
-    {
-      "id": "7f96"
-    },
-    {
-      "id": "b62f"
-    }
-  ]
+    "products" : [
+        {
+          "id": 1,
+          "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+          "price": 109.95,
+          "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+          "rating": {
+            "rate": 3.9,
+            "count": 120
+          }
+        },
+        {
+          "id": 2,
+          "title": "Mens Casual Premium Slim Fit T-Shirts ",
+          "price": 22.3,
+          "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+          "rating": {
+            "rate": 4.1,
+            "count": 259
+          }
+        },
+        {
+          "id": 3,
+          "title": "Mens Cotton Jacket",
+          "price": 55.99,
+          "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+          "rating": {
+            "rate": 4.7,
+            "count": 500
+          }
+        },
+        {
+          "id": 4,
+          "title": "Mens Casual Slim Fit",
+          "price": 15.99,
+          "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+          "rating": {
+            "rate": 2.1,
+            "count": 430
+          }
+        },
+        {
+          "id": 5,
+          "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+          "price": 695,
+          "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+          "category": "jewelery",
+          "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+          "rating": {
+            "rate": 4.6,
+            "count": 400
+          }
+        },
+        {
+          "id": 6,
+          "title": "Solid Gold Petite Micropave ",
+          "price": 168,
+          "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+          "category": "jewelery",
+          "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+          "rating": {
+            "rate": 3.9,
+            "count": 70
+          }
+        },
+        {
+          "id": 7,
+          "title": "White Gold Plated Princess",
+          "price": 9.99,
+          "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+          "category": "jewelery",
+          "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+          "rating": {
+            "rate": 3,
+            "count": 400
+          }
+        },
+        {
+          "id": 8,
+          "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+          "price": 10.99,
+          "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+          "category": "jewelery",
+          "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+          "rating": {
+            "rate": 1.9,
+            "count": 100
+          }
+        },
+        {
+          "id": 9,
+          "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+          "price": 64,
+          "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+          "category": "electronics",
+          "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+          "rating": {
+            "rate": 3.3,
+            "count": 203
+          }
+        },
+        {
+          "id": 10,
+          "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+          "price": 109,
+          "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+          "category": "electronics",
+          "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+          "rating": {
+            "rate": 2.9,
+            "count": 470
+          }
+        },
+        {
+          "id": 11,
+          "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+          "price": 109,
+          "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+          "category": "electronics",
+          "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+          "rating": {
+            "rate": 4.8,
+            "count": 319
+          }
+        },
+        {
+          "id": 12,
+          "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+          "price": 114,
+          "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+          "category": "electronics",
+          "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+          "rating": {
+            "rate": 4.8,
+            "count": 400
+          }
+        },
+        {
+          "id": 13,
+          "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+          "price": 599,
+          "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+          "category": "electronics",
+          "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+          "rating": {
+            "rate": 2.9,
+            "count": 250
+          }
+        },
+        {
+          "id": 14,
+          "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+          "price": 999.99,
+          "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+          "category": "electronics",
+          "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+          "rating": {
+            "rate": 2.2,
+            "count": 140
+          }
+        },
+        {
+          "id": 15,
+          "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+          "price": 56.99,
+          "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+          "category": "women's clothing",
+          "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+          "rating": {
+            "rate": 2.6,
+            "count": 235
+          }
+        },
+        {
+          "id": 16,
+          "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+          "price": 29.95,
+          "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+          "category": "women's clothing",
+          "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+          "rating": {
+            "rate": 2.9,
+            "count": 340
+          }
+        },
+        {
+          "id": 17,
+          "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+          "price": 39.99,
+          "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+          "category": "women's clothing",
+          "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+          "rating": {
+            "rate": 3.8,
+            "count": 679
+          }
+        },
+        {
+          "id": 18,
+          "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+          "price": 9.85,
+          "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+          "category": "women's clothing",
+          "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+          "rating": {
+            "rate": 4.7,
+            "count": 130
+          }
+        },
+        {
+          "id": 19,
+          "title": "Opna Women's Short Sleeve Moisture",
+          "price": 7.95,
+          "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+          "category": "women's clothing",
+          "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+          "rating": {
+            "rate": 4.5,
+            "count": 146
+          }
+        },
+        {
+          "id": 20,
+          "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+          "price": 12.99,
+          "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+          "category": "women's clothing",
+          "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+          "rating": {
+            "rate": 3.6,
+            "count": 145
+          }
+        }
+      ]
 }
