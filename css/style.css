@@ -1,0 +1,20 @@
+.singleProduct {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid #000000;
+    padding: 20px;
+    margin-bottom: 1rem;
+    width: 20%;
+}
+#productCatalog {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+.singleProduct img {
+    width: 50%;
+    height: 50%;
+}
